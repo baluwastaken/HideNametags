@@ -1,0 +1,5 @@
+name: HideNametags
+version: 0.1
+author: Synagames
+main: com.synagames.plugin.hnt.HNT
+description: A simple plugin that hides other players' nametags. Works normally with 1.7+ Bukkit, CraftBukkit, Spigot and every other Bukkit-based server.
